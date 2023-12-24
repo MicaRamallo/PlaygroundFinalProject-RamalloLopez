@@ -28,3 +28,4 @@ Tecnologías:
   - Interfaz Administrativa: Django Admin.
   
 ## Video explicativo
+https://youtu.be/5IEOsYtaJeg
